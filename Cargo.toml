@@ -235,4 +235,4 @@ extend-ignore-identifiers-re = [
 ]
 
 [workspace.metadata.typos.files]
-extend-exclude = ["data/tests/message/*.json"]
+extend-exclude = ["data/tests/message/*.json", "vendor/tor-dirmgr/**"]

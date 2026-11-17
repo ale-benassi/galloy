@@ -1,3 +1,0 @@
-[files]
-# Third-party source and signed protocol fixtures retain upstream spelling.
-extend-exclude = ["vendor/tor-dirmgr/**"]
