@@ -1,0 +1,2 @@
+# Preserve upstream Tor source and signed test fixtures verbatim.
+vendor/tor-dirmgr/** linguist-vendored -whitespace

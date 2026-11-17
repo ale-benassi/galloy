@@ -9,4 +9,6 @@ SHA-256: `34ea5e77b43bf1ef5fa213a89cb67080f218df6b418c82527e6bb9862a39aef5`
 Upstream source commit: `ce8bc6e0998bd5a4efdf06dd62dce53c98ea1087`.
 License: MIT OR Apache-2.0.
 
+The unused library `Cargo.lock` is omitted; the application uses the root lockfile. Original source and signed test fixtures are otherwise preserved, including their spelling and whitespace. Repository style checks exclude that imported directory.
+
 Remove the root Cargo patch and this directory once a published compatible Arti release accepts rusqlite 0.41 or later. Verify the default history tests and the Tor feature when replacing it.
