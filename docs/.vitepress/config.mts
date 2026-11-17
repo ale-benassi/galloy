@@ -175,7 +175,7 @@ export default defineConfig({
     },
     nav: [
       { text: "Settings", link: "/guides/settings-gui" },
-      { text: "Downloads", link: "https://github.com/solid-pixel/galloy/releases" },
+      { text: "Downloads", link: "https://github.com/ale-benassi/galloy/releases" },
       { text: "Halloy themes", link: "https://themes.halloy.chat/" },
     ],
     footer: {
@@ -183,10 +183,10 @@ export default defineConfig({
       copyright: "GPL-3.0-or-later. Built on the work of Halloy contributors.",
     },
     editLink: {
-      pattern: "https://github.com/solid-pixel/galloy/edit/main/docs/:path",
+      pattern: "https://github.com/ale-benassi/galloy/edit/main/docs/:path",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/solid-pixel/galloy" },
+      { icon: "github", link: "https://github.com/ale-benassi/galloy" },
     ],
     sidebar: {
       "/configuration": [

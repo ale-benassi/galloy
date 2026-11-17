@@ -8,9 +8,9 @@ An IRC client with graphical settings, built on [Halloy](https://github.com/squi
 while following Halloy's design and configuration format. It is maintained
 independently of the upstream Halloy project.
 
-[Download the macOS preview](https://github.com/solid-pixel/galloy/releases)
+[Download the macOS preview](https://github.com/ale-benassi/galloy/releases)
 · [Settings guide](docs/guides/settings-gui.md)
-· [Report an issue](https://github.com/solid-pixel/galloy/issues)
+· [Report an issue](https://github.com/ale-benassi/galloy/issues)
 
 ![Galloy's Appearance settings, with compact grouped controls for themes and fonts](assets/settings-gui.png)
 
@@ -38,7 +38,7 @@ configuration options exposed in the GUI.
 
 The current packaged preview is a universal macOS build for Apple silicon and
 Intel. Downloads, source archives, checksums, and verification details are on the
-[releases page](https://github.com/solid-pixel/galloy/releases).
+[releases page](https://github.com/ale-benassi/galloy/releases).
 
 1. Back up your existing `config.toml` and quit Halloy if it is running.
 2. Download and open the Galloy disk image, then drag **Galloy** to **Applications**.
@@ -86,7 +86,7 @@ IRC client is the work of the Halloy project and its contributors.
 
 Each prerelease documents the checks performed and any testing limitations.
 Please report bugs and feature requests on the
-[Galloy issue tracker](https://github.com/solid-pixel/galloy/issues), including
+[Galloy issue tracker](https://github.com/ale-benassi/galloy/issues), including
 the release version and steps to reproduce. Remove passwords, tokens, and other
 private details from any configuration excerpts or logs you share.
 

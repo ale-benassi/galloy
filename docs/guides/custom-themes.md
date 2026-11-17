@@ -131,7 +131,7 @@ default = <text style>
 More information on formatting colors is available in the [text formatting guide](/guides/text-formatting.md).
 
 ::: info
-The default Ferra theme toml file can be viewed [on GitHub](https://github.com/solid-pixel/galloy/blob/main/assets/themes/ferra.toml).
+The default Ferra theme toml file can be viewed [on GitHub](https://github.com/ale-benassi/galloy/blob/main/assets/themes/ferra.toml).
 :::
 
 ## Base16

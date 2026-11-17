@@ -11,10 +11,10 @@ pub const APPLICATION_ID: &str = "io.github.solid_pixel.Galloy";
 pub const WIKI_WEBSITE: &str = "https://halloy.chat";
 pub const THEME_WEBSITE: &str = "https://themes.halloy.chat";
 pub const SUPPORT_WEBSITE: &str =
-    "https://github.com/solid-pixel/galloy/issues";
+    "https://github.com/ale-benassi/galloy/issues";
 pub const RELEASE_WEBSITE: &str =
-    "https://github.com/solid-pixel/galloy/releases";
-pub const SOURCE_WEBSITE: &str = "https://github.com/solid-pixel/galloy/";
+    "https://github.com/ale-benassi/galloy/releases";
+pub const SOURCE_WEBSITE: &str = "https://github.com/ale-benassi/galloy/";
 
 pub fn user_agent() -> String {
     format!("Galloy/{}", VERSION.trim())

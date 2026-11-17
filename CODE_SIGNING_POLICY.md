@@ -11,7 +11,7 @@ launch; follow the opening instructions linked in the release notes.
 
 An ad hoc signature checks package integrity. It does not establish the
 publisher's identity. Compare downloads with the SHA-256 checksums attached to
-the same [Galloy release](https://github.com/solid-pixel/galloy/releases).
+the same [Galloy release](https://github.com/ale-benassi/galloy/releases).
 
 ## Windows and Linux
 

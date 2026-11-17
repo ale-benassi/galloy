@@ -1,8 +1,8 @@
 [package]
 name = "halloy"
 description = "Galloy IRC client with graphical settings (unofficial Halloy fork)"
-homepage = "https://github.com/solid-pixel/galloy"
-repository = "https://github.com/solid-pixel/galloy"
+homepage = "https://github.com/ale-benassi/galloy"
+repository = "https://github.com/ale-benassi/galloy"
 documentation = "https://halloy.chat/"
 version.workspace = true
 authors.workspace = true

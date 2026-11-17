@@ -18,7 +18,7 @@ concurrency:
 jobs:
   preview:
     name: Build draft macOS preview
-    if: github.repository == 'solid-pixel/galloy' && github.ref == 'refs/heads/main'
+    if: github.repository_id == '1435847990' && github.ref == 'refs/heads/main'
     runs-on: macos-15-intel
     timeout-minutes: 120
     permissions:

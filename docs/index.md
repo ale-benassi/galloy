@@ -5,9 +5,9 @@ An IRC client with graphical settings, built on [Halloy](https://github.com/squi
 
 ![Galloy's Blackberry bird against a plum and coral sunset](./images/galloy-banner.png)
 
-[Download the macOS preview](https://github.com/solid-pixel/galloy/releases)
+[Download the macOS preview](https://github.com/ale-benassi/galloy/releases)
 · [Settings guide](./guides/settings-gui.md)
-· [Report an issue](https://github.com/solid-pixel/galloy/issues)
+· [Report an issue](https://github.com/ale-benassi/galloy/issues)
 
 ## Graphical settings
 

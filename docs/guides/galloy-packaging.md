@@ -1,7 +1,7 @@
 # Galloy packaging and application identity
 
 Galloy is an unofficial, AI-assisted fork of Halloy. The packaged preview is
-available from [Galloy releases](https://github.com/solid-pixel/galloy/releases).
+available from [Galloy releases](https://github.com/ale-benassi/galloy/releases).
 Upstream Halloy packages do not include Galloy's Settings GUI.
 
 ## Platform identity

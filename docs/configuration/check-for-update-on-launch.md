@@ -24,4 +24,4 @@ check_for_update_on_launch = true
 
 Galloy checks its own GitHub repository. GitHub's latest-release endpoint
 excludes prereleases, so current previews are available from the
-[Galloy releases page](https://github.com/solid-pixel/galloy/releases).
+[Galloy releases page](https://github.com/ale-benassi/galloy/releases).

@@ -1,17 +1,17 @@
 # Get in touch
 
 For Galloy bugs, questions, and feature requests, use the
-[Galloy issue tracker](https://github.com/solid-pixel/galloy/issues).
+[Galloy issue tracker](https://github.com/ale-benassi/galloy/issues).
 Include the release version, commit, operating system, and steps to reproduce.
 Remove private details from logs and configuration excerpts.
 
 For suspected vulnerabilities, use
-[Galloy's private reporting form](https://github.com/solid-pixel/galloy/security/advisories/new).
+[Galloy's private reporting form](https://github.com/ale-benassi/galloy/security/advisories/new).
 
 ## Maintainer
 
 This fork is maintained independently under
-[solid-pixel](https://github.com/solid-pixel). Galloy is unofficial and AI-assisted.
+[ale-benassi](https://github.com/ale-benassi). Galloy is unofficial and AI-assisted.
 
 ## Halloy upstream
 

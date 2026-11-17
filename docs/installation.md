@@ -1,7 +1,7 @@
 # Installing Galloy
 
 Galloy is an unofficial, AI-assisted Halloy fork. Download packages from
-[Galloy releases](https://github.com/solid-pixel/galloy/releases).
+[Galloy releases](https://github.com/ale-benassi/galloy/releases).
 
 ## macOS preview
 
@@ -37,7 +37,7 @@ Install Rust and Git, plus the platform dependencies described in the
 [packaging guide](./guides/galloy-packaging.md), then run:
 
 ```sh
-git clone https://github.com/solid-pixel/galloy.git
+git clone https://github.com/ale-benassi/galloy.git
 cd galloy
 cargo run --profile ci
 ```

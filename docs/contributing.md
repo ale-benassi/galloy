@@ -1,21 +1,21 @@
 # Contributing to Galloy
 
 Galloy is an unofficial, AI-assisted fork of Halloy. Contributions to this fork
-belong in the [Galloy repository](https://github.com/solid-pixel/galloy).
+belong in the [Galloy repository](https://github.com/ale-benassi/galloy).
 
 ## Bugs and feature requests
 
-Search the [issue tracker](https://github.com/solid-pixel/galloy/issues) before
+Search the [issue tracker](https://github.com/ale-benassi/galloy/issues) before
 opening an issue. For bugs, include the Galloy version, commit, operating system,
 reproduction steps, expected behavior, and what happened. Remove private details.
 Report suspected security vulnerabilities through
-[private reporting](https://github.com/solid-pixel/galloy/security/advisories/new).
+[private reporting](https://github.com/ale-benassi/galloy/security/advisories/new).
 
 Discuss substantial features in a Galloy issue before implementing them.
 
 ## Pull requests
 
-Open pull requests on [this fork](https://github.com/solid-pixel/galloy/pulls).
+Open pull requests on [this fork](https://github.com/ale-benassi/galloy/pulls).
 Keep changes focused, explain the behavior they affect, and describe how they
 were tested. Preserve the shared configuration format, existing settings,
 comments, and credential references.

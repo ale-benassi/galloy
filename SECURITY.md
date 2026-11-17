@@ -6,14 +6,14 @@ against the version you are using.
 
 ## Supported versions
 
-Please use the latest [Galloy preview](https://github.com/solid-pixel/galloy/releases).
+Please use the latest [Galloy preview](https://github.com/ale-benassi/galloy/releases).
 Older previews may lack fixes. Galloy is experimental; there is no guaranteed
 response time or long-term security support commitment.
 
 ## Reporting a vulnerability
 
 Report suspected vulnerabilities privately through
-[Report a vulnerability](https://github.com/solid-pixel/galloy/security/advisories/new)
+[Report a vulnerability](https://github.com/ale-benassi/galloy/security/advisories/new)
 on Galloy's Security tab. A GitHub account is required.
 
 Include the Galloy version and commit, operating system, reproduction steps,

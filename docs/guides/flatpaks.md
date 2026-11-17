@@ -10,7 +10,7 @@ Galloy is not published on Flathub.
 Install [Flatpak Builder](https://docs.flatpak.org/en/latest/flatpak-builder.html)
 and the dependencies it requires, plus Python 3.
 
-Clone [Galloy](https://github.com/solid-pixel/galloy) and run from the repository root:
+Clone [Galloy](https://github.com/ale-benassi/galloy) and run from the repository root:
 
 ```sh
 bash scripts/flatpak.sh

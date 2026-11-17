@@ -12,7 +12,7 @@ see [Installation](../installation.md).
 ## Build the application
 
 ```sh
-git clone https://github.com/solid-pixel/galloy.git
+git clone https://github.com/ale-benassi/galloy.git
 cd galloy
 bash -e scripts/build-macos.sh
 ```
