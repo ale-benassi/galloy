@@ -1749,6 +1749,15 @@ mod tests {
         Database::new(Connection::open_in_memory().unwrap()).unwrap()
     }
 
+    #[test]
+    fn sqlite_includes_wal_page_size_fix() {
+        assert!(
+            rusqlite::version_number() >= 3_054_000,
+            "SQLite {} predates the RUSTSEC-2026-0459 fix",
+            rusqlite::version()
+        );
+    }
+
     fn server() -> Server {
         Server::from(std::sync::Arc::<str>::from("libera"))
     }

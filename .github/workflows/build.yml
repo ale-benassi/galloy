@@ -109,6 +109,9 @@ jobs:
         if: matrix.target.target == 'macos'
         run: cargo clippy --locked --profile ci --workspace --all-targets --target aarch64-apple-darwin -- -D warnings
 
+      - name: Clippy (Tor support)
+        run: cargo clippy --locked --profile ci -p irc --all-targets --features tor -- -D warnings
+
       - uses: taiki-e/install-action@5488ac5a951645ce95062214902ac4b6bc1a1037 # v2
         with:
           tool: cargo-nextest
